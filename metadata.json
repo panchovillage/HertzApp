@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Frota & Transfers",
+  "description": "Sistema completo para gestão de pedidos de aluguer de viaturas e transfers, com dashboard, exportação PDF e análise AI.",
+  "requestFramePermissions": []
+}
